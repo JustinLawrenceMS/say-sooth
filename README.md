@@ -11,7 +11,7 @@ and enter a line break at the end.
 
 Then make the script executable:
 
-```chmod 755 say-sooth```
+```chmod 755 /path/to/sooth```
 
 <h3>To use it:</h3>
 
