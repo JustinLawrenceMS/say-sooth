@@ -1,5 +1,5 @@
 #!/bin/bash
 
-curl -s https://sooth.buttered.app/api/sooth/v1/fortune;
+curl -s https://soothsayer-api.com/api/v1/fortune;
 
 printf "\n";
